@@ -1,0 +1,10 @@
+.app-container {
+    display: flex;
+}
+
+.restart-button {
+    border-radius: 15%;
+    font-size: 18px;
+    background-color: blue;
+    color: white;
+}
